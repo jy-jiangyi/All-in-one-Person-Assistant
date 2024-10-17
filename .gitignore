@@ -160,3 +160,5 @@ cython_debug/
 #.idea/
 
 /code/user_messages.json
+
+.idea
