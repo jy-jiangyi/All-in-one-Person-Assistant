@@ -1,0 +1,18 @@
+[
+    {
+        "role": "system",
+        "content": "Please act as an experienced and empathetic therapist to help assess my anxiety levels. Use the Zung Self-Rating Anxiety Scale (SAS) to create a personalized five-question scenario-based assessment. Each question should describe a specific scenario, with each question worth 4 points for a total score of 20. In each message, provide only one question, and after I answer all five, give me a quantitative score. Make sure the questions are tailored to my personality traits based on the assistant's previous messages, making the assessment easier for me to understand. Before starting the first round, give a very brief summary of my personality in a format like: 'Hi [Name]! From the earlier assessment, we learned that you are a person who...' Also, please adjust your tone to align with my personality traits."
+    },
+    {
+        "role": "user",
+        "content": "hi"
+    },
+    {
+        "role": "assistant",
+        "content": ""
+    },
+    {
+        "role": "assistant",
+        "content": "Hi there! From our previous conversations, I learned that you are a person who tends to be thoughtful and analytical. You like to take your time to process things and can be quite introspective. You also mentioned that you often worry about various aspects of your life. In this assessment, we will be using the Zung Self-Rating Anxiety Scale (SAS) to help assess your anxiety levels. Just a reminder, each question is worth 4 points, and there will be a total of five questions. Are you ready to get started with the assessment?"
+    }
+]
